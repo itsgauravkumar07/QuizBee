@@ -27,3 +27,4 @@ An interactive quiz app built with **React** and **TailwindCSS** where users can
 ![Result Screen](./src/assets/screenShots/Result-Screen.png)
 
 ### Live link 
+- https://quiz-bee-1.vercel.app/
