@@ -1,7 +1,4 @@
-import { useEffect } from "react";
 import badge from './assets/badge.png'
-import logo from "./assets/logo.webp"
-
 
 function ResultScreen({setCurrentScreen, resetQuiz, playCategory, total, score}){
 
