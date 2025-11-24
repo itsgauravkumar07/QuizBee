@@ -1,21 +1,17 @@
-# QuizBee 🎯
+QuizBee is a simple and fun quiz application built using React and Tailwind CSS.  
+Users can attempt quizzes, switch categories, and track their scores.
 
-An interactive quiz app built with **React** and **TailwindCSS** where users can test their knowledge across multiple categories.  
-
-## 🚀 Features
-- Choose from multiple quiz categories  
-- Countdown **timer bar** for each question  
-- **Answer validation**:  
-  - Selected answer turns **green** if correct  
-  - Selected answer turns **red** if wrong, while the correct answer also shows in **green**  
-- Dynamic scoring system  
-- Responsive design (mobile & desktop)  
-- Smooth transitions and modern UI  
+## 🎯 Features
+- Interactive quiz flow
+- Category selection
+- Score calculation
+- State-based screen transitions
+- Responsive UI design
 
 ## 🛠️ Tech Stack
-- **React** – Frontend framework  
-- **TailwindCSS** – Styling  
-- **Vite** – Development & bundling  
+- React
+- Tailwind CSS
+- Vite
 
 ### Home Page
 ![Home Page](./src/assets/screenShots/Home-Screen.png)
@@ -27,4 +23,21 @@ An interactive quiz app built with **React** and **TailwindCSS** where users can
 ![Result Screen](./src/assets/screenShots/Result-Screen.png)
 
 ### Live link 
-- https://quiz-bee-1.vercel.app/
+https://quiz-bee-1.vercel.app/
+
+## 📂 GitHub Repository
+https://github.com/itsgauravkumar07/QuizBee
+
+## 📘 What I Learned
+- Managing state effectively using React
+- Structuring UI using Tailwind CSS
+- Creating reusable components
+- Handling user interactions and dynamic UI
+
+## 📦 Setup & Installation
+
+```bash
+git clone https://github.com/itsgauravkumar07/QuizBee.git  
+cd QuizBee 
+npm install  
+npm run dev
